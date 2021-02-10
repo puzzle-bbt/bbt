@@ -1,7 +1,7 @@
 # Planungsfile
 
 Das Planungsfile besteht aus zwei Tabellen, Kapazitätsplanung und Planung.
-Es ist im [PuzzleFiles](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c) zu finden.
+Es ist im [PuzzleFiles](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c) zu finden. Frage beim Berufsbildner nach, falls du keinen Zugriff hast.
 
 ### Kapazitätsplanung
 
