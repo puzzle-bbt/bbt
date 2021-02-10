@@ -2,6 +2,8 @@
 
 **BBT** steht für **B**erufs**B**ildungs**T**eam und ist der Bereich bei Puzzle, wo alle Lernenden sich aufhalten und zusammen ihre Ausbildung bestreiten.
 
+Stalke die Members vom BBT [hier](https://www.puzzle.ch/de/team), wenn du nach Berufbildung filterst.
+
 ## Scrum
 Wir arbeiten mit dem Prinzip **Scrum** um Teams flexibel zu organisieren und möglichst effizient und agil zusammenzuarbeiten und Projekte vorwärts zu bringen.
 * [Scrum, Sprints, Stories ...](scrum/index.md)
