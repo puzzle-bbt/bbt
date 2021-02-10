@@ -1,5 +1,7 @@
 # Check-Liste vor Sprint Meeting
 
+> Tipp: Kopiere diese Datei in einen lokalen Markdown Editor, wie [CodImd](https://codimd.puzzle.ch) , um die Kästchen abhaken zu können.
+
 Sollte schon beim letzten Meeting erledigt sein
 
 - [ ]  Termin erstellen
