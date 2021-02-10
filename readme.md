@@ -1,4 +1,4 @@
-# BBT
+# Wilkommen im BBT
 
 **BBT** steht für **B**erufs**B**ildungs**T**eam und ist der Bereich bei Puzzle, wo alle Lernenden sich aufhalten und zusammen ihre Ausbildung bestreiten.
 
