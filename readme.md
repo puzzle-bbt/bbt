@@ -5,5 +5,5 @@
 Wir arbeiten mit dem Prinzip **Scrum** um Teams flexibel zu organisieren und möglichst effizient und agil zusammenzuarbeiten und Projekte vorwärts zu bringen.
 
 Folgend sind einige weiterführende Dokumentationen:
-* [Scrum, Sprints, Stories ...](https://github.com/puzzle-bbt/docs/scrum/index.md)
+* [Scrum, Sprints, Stories ...](scrum/index.md)
 * ...
