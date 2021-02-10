@@ -16,7 +16,6 @@ Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** 
 
 - organisiert Team, Stories und Sprints
 - bereitet Sprint-Meetings vor
--
 - [Scrum Master Dokumentation](scrum_master.md)
 
 ## 🏃🏽‍♂️ Sprints
@@ -46,11 +45,11 @@ Das Team trifft sich täglich zur gleichen Zeit. Jeder erzählt ...
 Zwischen Sprints finden Sprint-Meetings statt, mit folgendem Ablauf:
 
 1. **Review**: jeder präsentiert Gemachtes und Gelerntes
-    - In der [Review Präsentation](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro) muss jeder sein Review vorbereiten
+    - In der [Review Präsentation](review_presentation.md) muss jeder sein Review vorbereiten
 2. **Retro**: Letzter Sprint wird bewertet,
     - was lief gut/schlecht
     - wie kann der Sprint verbessert werden
     - Mit Notizzetteln oder [Reetro](https://www.reetro.app/)
 3. **Planning**: Neue Stories werden gewählt, geschätzt und zugewiesen
 
-Mehr Details sind im [Sprint-Meeting Ablauf]() zu finden.
+Mehr Details sind im [Sprint-Meeting Ablauf](sprint_meeting_ablauf.md) zu finden.
