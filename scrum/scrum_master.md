@@ -1,6 +1,6 @@
 # Scrum Master
 
-Als Scrum-Master sorgst du dafür, dass es im Team reibungslos läuft und es euch nie an Arbeit fehlt. Du bereitest Sprint-Meetings vor, hältst die Aufgaben aktuell, verwaltest das Planungs-File und rennst allen hinterher.
+Als Scrum-Master bist du für alles was mit Scrum zu tun hat verantwortlich. Du sorgst dafür, dass es im Team reibungslos läuft und es euch nie an Arbeit fehlt. Du bereitest Sprint-Meetings vor, hältst die Aufgaben aktuell, verwaltest das Planungs-File und rennst allen hinterher. Im Bestfall sind viele dieser Aufgaben obsolet, da jeder beteiligt ist und zum Beispiel neue Stories schreiben und  aktuell halten soll. Du kannst auch Aufgaben delegieren und Teammitgliedern übergeben. Auf jeden Fall organisiert du.
 
 ## :heavy_check_mark: Aufgaben
 * Sprint-Meetings vorbereiten ([Check-Liste](sprint_meeting_checklist.md))
@@ -21,6 +21,7 @@ Wenn du ein Sprint-Meeting vorbereitest, halte dich an die [Check-Liste](sprint_
 * [Review Presentation](review_presentation.md)
 * [Impediment Logs](impediment_log.md)
 * [ZenHub](zenhub.md)
-* Sprint-Meeting
-  * [Check-Liste](sprint_meeting_checklist.md)
-  * [Ablauf](sprint_meeting_ablauf.md)
+
+**Sprint-Meeting**
+* [Check-Liste](sprint_meeting_checklist.md)
+* [Ablauf](sprint_meeting_ablauf.md)
