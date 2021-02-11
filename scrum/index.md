@@ -14,10 +14,10 @@ Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** 
 - ZenHub Tab in GitHub mit [Browser Extension](https://www.zenhub.com/extension)
 
 ## 🧙‍♂️ Scrum-Master
-
-- organisiert Team, Stories und Sprints
-- bereitet Sprint-Meetings vor
+Der Scrum Zauberer des Teams.
 - [Scrum Master Doku](scrum_master.md)
+- hilft Team, Stories und Sprints zu organisieren
+- bereitet Sprint-Meetings vor und leitet sie
 
 ## 🏃🏽‍♂️ Sprints
 
@@ -29,14 +29,13 @@ Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** 
 
 Repräsentieren eine Aufgabe oder **Arbeitspaket** und werden bei Sprintbeginn definiert, geschätzt und zugewiesen.
 * [Story Doku](story.md)
-* geschätzter **Stundenaufwand**, zugewiesener **Entwickler** und **Status** in der ZenHub-Story immer aktuell halten
-* auch Tickets genannt
+* haben geschätzten **Stundenaufwand**, zugewiesener **Entwickler** und **Status**
+* sollen immer aktuell gehalten werden
 > 🧘🏾 In Zenhub sind Stories automatisch auch [Issues](https://github.com/puzzle-bbt/bbt/issues) im Repository
 
 ## ☀️ Daily
 
 Das Team trifft sich täglich zur gleichen Zeit. Jeder erzählt ...
-
 - was er seit dem letztem Daily getan hat,
 - was für Probleme er antraf oder noch hat,
 - und was er als nächstes angeht.
