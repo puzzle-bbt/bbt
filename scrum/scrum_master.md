@@ -2,13 +2,24 @@
 
 Als Scrum-Master sorgst du dafür, dass es im Team reibungslos läuft und es euch nie an Arbeit fehlt. Du bereitest Sprint-Meetings vor, hälst die Aufgaben aktuell, verwaltest das Planungs-File und rennst allen hinterher.
 
-Studiere zuerst die [Scrum-Übersicht](index.md) und den [Ablauf eines Sprint Meetings](sprint_meeting_ablauf.md) um ein Bild von allem zu bekommen, bevor du das [Planungs-File](planungsfile.md) und die [Review Präsentation](review_presentation.md) durchliest.
+## :heavy_check_mark: Aufgaben
+* Sprint-Meetings vorbereiten ([Check-Liste](sprint_meeting_checklist.md))
+* Sprint-Meetings leiten ([Ablauf](sprint_meeting_ablauf.md))
+* :sunny: [Daily](index.md#%EF%B8%8F-daily) leiten
+* Umsetzen von Verbesserungen, welche im letzten [Retro](sprint_meeting_ablauf.md#2-retro) besprochen wurden
+* [Impediment Logs](impediment_log.md) pflegen und Teammitglieder daran erinnern
+* Work-Flow pflegen (Stories schön reviewed? :ticket: Tickets richtig zugewiesen? 🧘🏾ZenHub richtig genutzt?)
+* :calendar: Kalender pflegen (Daily, Reviews, Retros, Plannings, alle eingeladen? Zimmer reserviert?) 
+
+## :wink: Tipps
+Studiere zuerst die [Scrum-Übersicht](index.md) und den [Ablauf eines Sprint Meetings](sprint_meeting_ablauf.md) um ein Bild von allem zu bekommen, bevor du das [Planungs-File](planungsfile.md) , die [Review Präsentation](review_presentation.md) und den [Impediment Logs](impediment_log.md) durchliest.
 
 Wenn du ein Sprint-Meeting vorbereitest, halte dich an die [Check-Liste](sprint_meeting_checklist.md). Nach ein zwei Sprints, wirst du es vermutlich ohne vorbereiten können.
 
-## Dokumentationen
+## :clipboard: Dokumentationen
 * [Planungsfile](planungsfile.md)
 * [Review Presentation](review_presentation.md)
+* [Impediment Logs](impediment_log.md)
 * Sprint-Meeting
   * [Check-Liste](sprint_meeting_checklist.md)
   * [Ablauf](sprint_meeting_ablauf.md)
