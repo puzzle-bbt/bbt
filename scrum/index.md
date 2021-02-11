@@ -22,13 +22,13 @@ Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** 
 
 **Arbeitsabschnitte** von 2 bis 4 Wochen in welchen Stories abgearbeitet werden und zwischen welchen Sprint-Meetings stattfinden.
 
-- entsprechen [Milestones](https://github.com/puzzle-bbt/bbt/milestones) in diesem Repository
+> entsprechen [Milestones](https://github.com/puzzle-bbt/bbt/milestones) in diesem Repository
 
 ## 🎫 Stories
 
 Repräsentieren eine Aufgabe oder **Arbeitspaket** und werden bei Sprintbeginn definiert, geschätzt und zugewiesen.
 
-- mit ZenHub automatisch auch Issues im Repository
+> 🧘🏾 Zenhub: automatisch auch Issues im Repository
 - geschätzter **Stundenaufwand**, zugewiesener **Entwickler** und **Status** in der ZenHub-Story immer aktuell halten
 - auch Tickets genannt
 
