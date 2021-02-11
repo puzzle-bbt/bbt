@@ -1,7 +1,7 @@
 # Story
 
-Ein Ticket, oder eben Story, ist eine Aufgabe und repräsentiert meistens ein Feature oder Bug der Applikation.
-
+Ein Ticket, oder eben Story, ist eine Aufgabe und repräsentiert meistens ein Feature oder :bug: Bug der Applikation.
+Der **Ticket Workflow** zeigt, wie der Lebenszyklus eines Ticket aussieht und wie man eine Story abarbeitet. Wichtig dabei ist, wenn das Ticket implementiwert ist, soll die **DoD** (Definition of Done) durchgeackert werden. Der **Git Workflow** zeigt wir wir mit Git sauber arbeiten und an den wir uns stets halten.
 
 ## Ticket Workflow
 ![Ticket Workflow](ticket_workflow.png)
@@ -16,8 +16,7 @@ Ein Ticket, oder eben Story, ist eine Aufgabe und repräsentiert meistens ein Fe
 - Update Lerndokumentation
 - Update Projektdokumentation
 - Spezifikationen korrekt durchlesen
-- Assignen an Team
-- Kon Stories: Stories erstellt und geschätzt
+- Assignen an Team für Review
 
 ## Git Workflow
 
