@@ -56,9 +56,9 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
 ### Retro
 - [ ] Mögliche Kategorien für die Post-It Zetteln vorbereiten
     Beispiele
-* continue / stop / start
-* Wind(was war gut) / Anker(was bremste uns) / Steine(was für Schwierigkeiten kommen) / Insel(Ziel)
-Aber als Scrum-Master kann man andere online suchen/bestimmen.
+    * continue / stop / start
+    * Wind(was war gut) / Anker(was bremste uns) / Steine(was für Schwierigkeiten kommen) / Insel(Ziel)
+> Aber als :mage_man:Scrum-Master kann man andere online suchen/bestimmen.
 
 ### ZenHub
 
