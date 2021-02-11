@@ -27,9 +27,9 @@
     - vom Backlog
     - neu dazugekommene
 
-    🧘🏽*ZenHub*: **Status** zu `Spring Backlog` und entsprechenden **Milestone** setzen
+    > 🧘🏽*ZenHub*: **Status** zu `Spring Backlog` und entsprechenden **Milestone** setzen
 
 - 💯 Punkte für jede Story **schätzen**
 - 👥 Stories den Teammitgliedern **zuweisen**
 
-*🧘🏽 jeweils auch in ZenHub eintragen*
+> 🧘🏽 jeweils auch in ZenHub eintragen*
