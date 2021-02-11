@@ -28,10 +28,10 @@ Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** 
 ## 🎫 Stories
 
 Repräsentieren eine Aufgabe oder **Arbeitspaket** und werden bei Sprintbeginn definiert, geschätzt und zugewiesen.
-
-> 🧘🏾 In Zenhub sind Stories automatisch auch Issues im Repository
+* [Story Doku](story.md)
 - geschätzter **Stundenaufwand**, zugewiesener **Entwickler** und **Status** in der ZenHub-Story immer aktuell halten
 - auch Tickets genannt
+> 🧘🏾 In Zenhub sind Stories automatisch auch [Issues](https://github.com/puzzle-bbt/bbt/issues) im Repository
 
 ## ☀️ Daily
 
