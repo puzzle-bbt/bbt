@@ -2,7 +2,7 @@
 Scrum ist ein Vorgehensmodell um den Softwareenwicklungsprozess **flexibler** und schneller zu machen, indem es Aufgaben in **Stories** steckt und in regelmässigen Abständen **Sprint-Meetings** haltet.
 
 - [Scrum Overview](https://www.mountaingoatsoftware.com/agile/scrum/resources/overview)
-- Video von Luca
+- [Gutes Video](https://www.youtube.com/watch?v=4rBz9in_PsI)
 - [Puzzle Wiki - BBT Scrum](https://wiki.puzzle.ch/Puzzle/BbtScrum)
 
 ## 🧘🏾 Zenhub
