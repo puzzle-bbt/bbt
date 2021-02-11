@@ -7,7 +7,7 @@ Sollte schon beim letzten Meeting erledigt sein
 - [ ]  Termin erstellen
 - [ ]  Raum reservieren
 
-**Planungsfile**
+### Planungsfile
 
 Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
 
@@ -30,7 +30,7 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
 
     - [ ]  **Velocity** zunächst 0
 
-**Review Präsentation**
+### Review Präsentation
 
 [GitLab Repository](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro)
 
@@ -53,7 +53,14 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
 - [ ]  eigenes **Review** erstellen
 - [ ]  Sicherstellen, dass **alle** ihre Review erstellen
 
-**ZenHub**
+### Retro
+- [ ] Mögliche Kategorien für die Post-It Zetteln vorbereiten
+    Beispiele
+* continue / stop / start
+* Wind(was war gut) / Anker(was bremste uns) / Steine(was für Schwierigkeiten kommen) / Insel(Ziel)
+Aber als Scrum-Master kann man andere online suchen/bestimmen.
+
+### ZenHub
 
 - [ ]  Neuen Milestone erstellen
     - [ ]  gleichen **Namen** wie im Planungsfile
@@ -62,12 +69,12 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
 
     ‼️ Klare und detaillierte Beschreibung ist essentiell.
 
-**Live**
+### Live
 
 - [ ]  grosser Flip-Chart, Post-Its, Stifte für Retro
 - [ ]  Review Präsentation bereit und Laptop mit Beamer im Raum getestet
 
-**Remote**
+### Remote
 
 - [ ]  [Reetro](http://reetro.app) für Remote Retro
 
