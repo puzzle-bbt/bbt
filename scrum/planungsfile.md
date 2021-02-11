@@ -10,3 +10,8 @@ Die **Verfügbarkeiten** aller Teammitglieder sind hier erfasst. Vor dem Sprint-
 ### Planung
 
 Hier werden die **Sprints** und ihre **Resourcen** erfasst. Neben Start und Enddatum, sind die Teammitglieder und ihre verfügbaren Stunden eingetragen, welche automatisch von der Kapazitätsplanung genommen werden. Anhand von der relativen Velocity des vorherigen Sprints, werden die Punkte berechnet und die Total Anzahl Storypunkte, beziehungsweise Stunden.
+
+#### Velocity??
+Die **Velocity** ist die Anzahl Punkte, welche man in einem Sprint abschliessen konnte, also die Summer der geschätzten Punkte der abgeschlossenen Stories. Die **relative Velocity** ist diese Anzahl erreichter Punkte geteilt durch die verfügbaren Stunden, also wie viel Punkte das Team pro Stunde erledigt hat. 
+
+Anhand dieser, wird die Anzahl Punkte für den nächsten Sprint bestimmt. Die verfügbaren Stunden multipliziert mit der letzten Velocity ergibt die Punkte für den nächsten Sprint. Schau dir die Formeln dieser Tabelle genauer an!
