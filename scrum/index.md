@@ -10,13 +10,14 @@ Scrum ist ein Vorgehensmodell um den Softwareenwicklungsprozess **flexibler** un
 Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** und vieles mehr in GitHub integriert.
 
 - [What is ZenHub](https://help.zenhub.com/support/solutions/articles/43000010778-what-is-zenhub-an-intro-to-zenhub-in-github)
+- [ZenHub Doku](zenhub.md)
 - ZenHub Tab in GitHub mit [Browser Extension](https://www.zenhub.com/extension)
 
 ## 🧙‍♂️ Scrum-Master
 
 - organisiert Team, Stories und Sprints
 - bereitet Sprint-Meetings vor
-- [Scrum Master Dokumentation](scrum_master.md)
+- [Scrum Master Doku](scrum_master.md)
 
 ## 🏃🏽‍♂️ Sprints
 
@@ -28,7 +29,7 @@ Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** 
 
 Repräsentieren eine Aufgabe oder **Arbeitspaket** und werden bei Sprintbeginn definiert, geschätzt und zugewiesen.
 
-> 🧘🏾 Zenhub: automatisch auch Issues im Repository
+> 🧘🏾 In Zenhub sind Stories automatisch auch Issues im Repository
 - geschätzter **Stundenaufwand**, zugewiesener **Entwickler** und **Status** in der ZenHub-Story immer aktuell halten
 - auch Tickets genannt
 
@@ -42,7 +43,8 @@ Das Team trifft sich täglich zur gleichen Zeit. Jeder erzählt ...
 
 ## 🤝 Sprint-Meeting
 
-Zwischen Sprints finden Sprint-Meetings statt, mit folgendem Ablauf:
+Zwischen Sprints finden Sprint-Meetings statt. Sie beenden den vorherigen und beginnen den nächsten Sprint. 
+Sie haben folgenden Ablauf:
 
 1. **Review**: jeder präsentiert Gemachtes und Gelerntes
     - In der [Review Präsentation](review_presentation.md) muss jeder sein Review vorbereiten
