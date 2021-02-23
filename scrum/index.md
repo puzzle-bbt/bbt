@@ -5,6 +5,8 @@ Scrum ist ein Vorgehensmodell um den Softwareenwicklungsprozess **flexibler** un
 - [Gutes Video](https://www.youtube.com/watch?v=4rBz9in_PsI)
 - [Puzzle Wiki - BBT Scrum](https://wiki.puzzle.ch/Puzzle/BbtScrum)
 
+> Ein anderes weit verbreitetes Vorgehensmodell, welches nicht iterativ ist und in linearen aufeinanderfolgenden Phasen organisiert ist, ist das [Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell#:~:text=Ein%20Wasserfallmodell%20ist%20ein%20lineares,aufeinander%20folgenden%20Projektphasen%20organisiert%20ist.)
+
 ## 🧘🏾 Zenhub
 
 Das BBT benutzt ZenHub als Projekt-Management Tool, welches ein **Story-Board** und vieles mehr in GitHub integriert.
