@@ -56,3 +56,19 @@ Sie haben folgenden Ablauf:
 3. **Planning**: Neue Stories werden gewählt, geschätzt und zugewiesen
 
 Mehr Details sind im [Sprint-Meeting Ablauf](sprint_meeting_ablauf.md) zu finden.
+
+## Stärken & Schwächen
+Scum ist die Lösung zu allen Problemen, kann jedoch, wenn richtig eingesetzt und von allen beherzigt, den Entwicklungsprozess stark zum Erfolg beitragen. Im Folgenden eine Stärken und Schwächen.
+### :muscle: Stärken
+* hilft Teams Projekte schnell und effizient abzuschliessen
+* Probleme und Fehler werden früher erkannt
+* reagiert gut auf Rückmeldung, Änderungen im Plan und Fehler durch regelmässige Sprint-Meetings
+* macht Fortschritt des Teams sichtbar für alle
+* grosse Projekte werden in einfacher zu handhabende Sprints aufgeteilt
+
+
+### :thumbsdown: Schwächen
+* ist herausfordernd in grösseren Teams einzuführen
+* benötigt Einsatz und Kooperation von jedem Teammitglied um erfolgreich zu funktionieren
+* fehlt es an einem End-Datum, was zu unbemerkten Umfangswachstum führen kann
+* um Qualität zu garantieren ist ein aggressiver Test Prozess nötig
