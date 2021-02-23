@@ -14,7 +14,7 @@ In ZenHub können Workspaces erstellt werden, zudenen die Teammitglieder eingela
 
 ## Sprints oder Milestones
 
-Unsere Sprints entsprechen Milestones im Workspace beziehungsweise in den Repositories. In der linken Leiste, kannst du Milestones mit Start und End-Datum erstellen. (Das geht nur im [ZenHub Webseite](https://app.zenhub.com/))
+Unsere Sprints entsprechen Milestones im Workspace beziehungsweise in den Repositories. In der linken Leiste, kannst du Milestones mit Start und End-Datum erstellen. (Das geht nicht im ZenHub Tab, sondern nur auf der [ZenHub Webseite](https://app.zenhub.com/))
 
 
 ## Story Board
