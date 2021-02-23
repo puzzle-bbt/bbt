@@ -20,18 +20,18 @@ Der Scrum Zauberer des Teams.
 - bereitet Sprint-Meetings vor und leitet sie
 
 ## 🏃🏽‍♂️ Sprints
+> aka [Milestones](https://github.com/puzzle-bbt/bbt/milestones) in diesem Repository
 
 **Arbeitsabschnitte** von 2 bis 4 Wochen in welchen Stories abgearbeitet werden und zwischen welchen Sprint-Meetings stattfinden.
 
-> entsprechen [Milestones](https://github.com/puzzle-bbt/bbt/milestones) in diesem Repository
 
-## 🎫 Stories
+## 🎫 Stories 
+> aka. Tickets oder [Issues](https://github.com/puzzle-bbt/bbt/issues) in diesem Repository
 
 Repräsentieren eine Aufgabe oder **Arbeitspaket** und werden bei Sprintbeginn definiert, geschätzt und zugewiesen.
 * [Story Doku](story.md)
 * haben geschätzten **Stundenaufwand**, zugewiesener **Entwickler** und **Status**
 * sollen immer aktuell gehalten werden
-> 🧘🏾 In Zenhub sind Stories automatisch auch [Issues](https://github.com/puzzle-bbt/bbt/issues) im Repository
 
 ## ☀️ Daily
 
