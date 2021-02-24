@@ -16,7 +16,7 @@ Um alle zusammen an einem Software-Projekt arbeiten zu können und den Überblic
 
 
 ## Unsere Projekte
-Im BBT können wir an spannenden Projekten mitarbeiten, welche aktiv benutzt werden und einen 180° Einblick in die Software-Entwicklung bekommen und eine Applikation von Konzeption, zu Entwicklung und Testung bis zum deployen begleiten.
+Im BBT können wir an spannenden Projekten mitarbeiten, welche aktiv benutzt werden und einen 360° Einblick in die Software-Entwicklung bekommen und eine Applikation von Konzeption, zu Entwicklung und Testung bis zum deployen begleiten.
 
 Hier einige von den Projekten, an denen das BBT gearbeitet hat und wieder arbeiten wird:
 * [Cryptopus](https://github.com/puzzle/cryptopus) - manage deine Passwörter
