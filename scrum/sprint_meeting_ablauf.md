@@ -7,11 +7,22 @@
 *Scrum-Master zeigt **Slides** von der Präsentation.*
 - :trollface: über das Meme lachen
 - 🔥 Burndown erklären
-- Jedes Teammitglied stellt sein Review vor
+- Jedes Teammitglied stellt sein [Review](review_presentation.md) vor
 
     ❓ **Fragen** sollen gestellt und alles **Erzählte** von **Allen** verstanden werden.
 
 ### 2. Retro
+
+#### Retro Board
+Auf dem Retro Board werden alle Post-Its von jedem gesammelt, welche zu vordefinierten Kategorien gehören. Diese Kategorien sollen grundsätzlich positives, negatives und Verbesserungen trennen. Siehe unten ein Beispiel.
+
+Mögliche Kategorien:
+*  \+ / - / stop / start
+* Rücken-Wind, Anker der einen gebremst hat, Felsen im Weg die noch kommen, Inseldestination
+* kann auch etwas anderes sein
+
+
+#### Ablauf
 
 - 📜 Jeder für sich **Post-Its** schreiben oder 🖌️ zeichnen
 - 📊 **Zusammentragen**, jeder stellt seine Punkte vor
@@ -32,3 +43,7 @@
 - 💯 Punkte für jede Story **schätzen**
 - 👥 Stories den Teammitgliedern **zuweisen**
 > 🧘🏽 In ZenHub kann der **Status** zu `Spring Backlog` und entsprechenden **Milestone**, also Sprint, gesetzt werden. Weiter auch die geschätzten Punkte/Stunden und das zugewiesene Teammitglied.
+
+
+### Retro Board
+![Retro-Board](images/retroboard.jpg)
