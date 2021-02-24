@@ -37,6 +37,7 @@ Mögliche Kategorien:
     - vom letzten Sprint
     - vom Backlog
     - neu dazugekommene
+    > Alle müssen eine saubere und klare Beschreibung haben, da anhand davon gearbeitet wird.
 
 
 
