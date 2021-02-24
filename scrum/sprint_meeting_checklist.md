@@ -34,7 +34,7 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
 
 [GitLab Repository](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro)
 
-> ‼️ jede Änderung sofort commit'en und push'en um Merge-Konflikte zu vermeiden
+> ‼️ Die Teammitglieder sollen ihre Reviews nacheinander und nicht parallel schreiben und push'en um Merge-Konflikte zu vermeiden.
 
 - [ ]  Neuen Branch erstellen wie [hier](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro#branch) beschrieben
     - Branch Name: **sprint-sXX** wobei **XX** Sprint-Nummer ist
@@ -77,6 +77,7 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
 ### Remote
 
 - [ ]  [Reetro](http://reetro.app) für Remote Retro
+- [ ]  [Scrumpoker](https://www.scrumpoker-online.org/) um Punkte zu schätzen
 
 Auch gemischt möglich, einige in Büro, einige zu Hause.
 
