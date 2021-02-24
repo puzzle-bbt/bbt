@@ -18,8 +18,8 @@ Auf dem Retro Board werden alle Post-Its von jedem gesammelt, welche zu vordefin
 
 Mögliche Kategorien:
 *  \+ / - / stop / start
-* Rücken-Wind, Anker der einen gebremst hat, Felsen im Weg die noch kommen, Inseldestination
-* kann auch etwas anderes sein
+* :boat: Rücken-Wind, :anchor: Anker der einen gebremst hat, 🗿 Felsen im Weg die noch kommen, :desert_island: Inseldestination
+> ...kann auch etwas anderes sein.
 
 
 #### Ablauf
