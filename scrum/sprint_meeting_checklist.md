@@ -9,7 +9,7 @@ Sollte schon beim letzten Meeting erledigt sein
 
 ### Planungsfile
 
-Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/s/tP23bgeMoxE8a9c).
+Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/f/5810568) (Frag deinen Berufsbildner, falls du keinen Zugriff hast).
 
 - [ ]  Fehlende **Wochen** im Tab Kapazitätsplanung erweitern
 - [ ]  Alle ihre **An/Abwesenheiten** eintragen im Tab Kapazitätsplanung
