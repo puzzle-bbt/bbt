@@ -19,7 +19,8 @@ Um alle zusammen an einem Software-Projekt arbeiten zu können und den Überblic
 Im BBT können wir an spannenden Projekten mitarbeiten, welche aktiv benutzt werden und einen 180° Einblick in die Software-Entwicklung bekommen und eine Applikation von Konzeption, zu Entwicklung und Testung bis zum deployen begleiten.
 
 Hier einige von den Projekten, an denen das BBT gearbeitet hat und wieder arbeiten wird:
-* [Cryptopus](https://github.com/puzzle/cryptopus)
-* [Pfeedback](https://gitlab.puzzle.ch/rhertle/pfeedback)
-* [Skills](https://github.com/puzzle/skills)
-* [Hitobito](https://github.com/hitobito)
+* [Cryptopus](https://github.com/puzzle/cryptopus) - manage deine Passwörter
+* [Pfeedback](https://gitlab.puzzle.ch/rhertle/pfeedback) - geb und erhalte Feedback
+* [Skills](https://github.com/puzzle/skills) - trage deine Skills ein und finde Leute mit Skill
+* [Lightning ATM](https://docs.lightningatm.me/) - wandle dein Bargeld in Bitcoins
+* [Hitobito](https://github.com/hitobito) - organisiere dein Verband
