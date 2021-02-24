@@ -6,11 +6,13 @@ Finde heraus wer so die Members vom BBT sind, indem du [hier](https://www.puzzle
 
 ## Wie wir arbeiten
 
+### Scrum
 Wir arbeiten mit dem Prinzip **Scrum** um Teams flexibel zu organisieren und möglichst effizient und agil zusammenzuarbeiten und Projekte vorwärts zu bringen.
 * Finde mehr heraus über [Scrum, Sprints, Stories ...](scrum/index.md)
 
-Um alle zusammen an einem Software-Projekt arbeiten zu können und den Überblick über alle Änderungen zu behalten, benutzen wir **Git**.
-* Finde mehr heraus über [Git](git.md)
+### Git
+Um alle zusammen an einem Software-Projekt arbeiten zu können und den Überblick über alle Änderungen zu behalten, benutzen wir **Git**, **GitHub** und **ZenHub**.
+* Finde mehr heraus über [Git](git.md) und [ZenHub](scrum/zenhub.md)
 
 
 ## Unsere Projekte
