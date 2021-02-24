@@ -15,7 +15,7 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/f/5810568) (Frag dein
 - [ ]  Alle ihre **An/Abwesenheiten** eintragen im Tab Kapazitätsplanung
     - an letzten Sprint orientieren, falls einige Galöris es nicht machen
     - am Tag des Sprints haben alle **halbe** Kapazität
-- [ ]  **erreichte Punkte** eintragen am Ende des aktuellen Sprints
+- [ ]  **erreichte Punkte** eintragen am Tag des Sprint-Meetings
     - alle Storypunkte zählen, die fertig sind oder auf Feedback warten
 - [ ]  Neuen Sprint anlegen im Tab **Planung**
     - [ ]  Letzten Sprint hinunterkopieren
