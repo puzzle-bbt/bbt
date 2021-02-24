@@ -23,7 +23,7 @@ Das Story Board bietet alle Funktionen, die wir benötigen um unsere Stories zu 
 Stories (oder Issues, da Stories alle gleichzeitig Issues im Repo sind) können erstellt werden, herumgezogen werden um den Status zu ändern (In Progress, Implemented, ...) und vieles mehr.
 
 
-![ZenHub StoryBoard](zenhub.png)
+![ZenHub StoryBoard](images/zenhub.png)
 
 ## Story bearbeiten
 Klick auf eine Story um sie zu bearbeiten. Bearbeite den Titel, Beschreibung oder füge einen Kommentar hinzu. Auf der Rechten Seite finden sich weitere Eigenschaften. Die wichtigen, welche immer aktuell gehalten werden sollen, sind folgende.
@@ -33,4 +33,4 @@ Klick auf eine Story um sie zu bearbeiten. Bearbeite den Titel, Beschreibung ode
 * Milestone - der entsprechende Sprint
 * Estimate - geschätzte Punkte/Stunden
 
-![ZenHub Story](story.png)
+![ZenHub Story](images/story.png)

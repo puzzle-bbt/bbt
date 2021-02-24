@@ -6,7 +6,7 @@ Der **Ticket Workflow** zeigt, wie der Lebenszyklus eines Ticket aussieht und wi
 Unsere Stories verwalten wir mittels [ZenHub](zenhub.md).
 
 ## Ticket Workflow
-![Ticket Workflow](ticket_workflow.png)
+![Ticket Workflow](images/ticket_workflow.png)
 
 ## Definition of Done
 - Implementation
@@ -22,4 +22,4 @@ Unsere Stories verwalten wir mittels [ZenHub](zenhub.md).
 
 ## Git Workflow
 
-![Git Workflow](git_workflow.png)
+![Git Workflow](images/git_workflow.png)
