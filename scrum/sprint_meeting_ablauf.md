@@ -37,13 +37,12 @@ Mögliche Kategorien:
     - vom letzten Sprint
     - vom Backlog
     - neu dazugekommene
-    > Alle müssen eine saubere und klare Beschreibung haben, da anhand davon gearbeitet wird.
-
 
 
 - 💯 Punkte für jede Story **schätzen**
 - 👥 Stories den Teammitgliedern **zuweisen**
 > 🧘🏽 In ZenHub kann der **Status** zu `Spring Backlog` und entsprechenden **Milestone**, also Sprint, gesetzt werden. Weiter auch die geschätzten Punkte/Stunden und das zugewiesene Teammitglied.
+> Alle Stories müssen eine saubere und klare Beschreibung haben, da anhand davon gearbeitet wird.
 
 
 ### Retro Board
