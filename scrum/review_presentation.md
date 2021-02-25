@@ -1,6 +1,6 @@
 # Review Präsentationen
 
-Während dem Review im Sprint-Meeting, präsentiert jeder, was er **gemacht** und **gelernt** hat. Dazu muss jeder **Slides** vorbereiten in [diesem Repository](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro) in seinem entsprechendem Abschnitt.
+Während dem Review im Sprint-Meeting, präsentiert jeder, was er **gemacht** und **gelernt** hat. Dazu muss jeder **Slides** vorbereiten in [diesem Repository](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro) in seinem entsprechendem Abschnitt. Alles sollte im Readme von diesem Repo beschrieben sein.
 
 ## Struktur
 Die Slides sollten folgende Struktur haben:
