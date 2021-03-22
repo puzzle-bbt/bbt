@@ -14,7 +14,7 @@ Als Scrum-Master bist du für alles was mit Scrum zu tun hat verantwortlich. Du 
 ## :sunrise_over_mountains: Neuland hier?
 Studiere zuerst die [Scrum-Übersicht](index.md) und den [Ablauf eines Sprint Meetings](sprint_meeting_ablauf.md) um ein Bild von allem zu bekommen, bevor du das [Planungs-File](planungsfile.md) , die [Review Präsentation](review_presentation.md) und den [Impediment Logs](impediment_log.md) durchliest.
 
-Wenn du ein Sprint-Meeting vorbereitest, halte dich an die [Check-Liste](sprint_meeting_checklist.md). Nach einigen Sprints, wirst du es vermutlich ohne vorbereiten können.
+Wenn du ein Sprint-Meeting vorbereitest, halte dich an die [Check-Liste](sprint_meeting_checklist.md). Nach einigen Sprints, wirst du es vermutlich ohne Check-Liste vorbereiten können.
 
 ## :clipboard: Dokumentationen
 * [Planungsfile](planungsfile.md)
