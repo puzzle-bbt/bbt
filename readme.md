@@ -20,7 +20,7 @@ Im BBT können wir an spannenden Projekten mitarbeiten, welche aktiv benutzt wer
 
 Hier einige von den Projekten, an denen das BBT gearbeitet hat und wieder arbeiten wird:
 * [Cryptopus](https://github.com/puzzle/cryptopus) - manage deine Passwörter
-* [Pfeedback](https://gitlab.puzzle.ch/rhertle/pfeedback) - geb und erhalte Feedback
+* [Pfeedback](https://gitlab.puzzle.ch/rhertle/pfeedback) - gib und erhalte Feedback
 * [Skills](https://github.com/puzzle/skills) - trage deine Skills ein und finde Leute mit Skill
-* [Lightning ATM](https://docs.lightningatm.me/) - wandle dein Bargeld in Bitcoins
+* [Lightning ATM](https://docs.lightningatm.me/) - wandle dein Bargeld in Bitcoins um
 * [Hitobito](https://github.com/hitobito) - organisiere dein Verband
