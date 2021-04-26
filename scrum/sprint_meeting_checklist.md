@@ -32,7 +32,7 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/f/5810568) (Frag dein
 
 ### Review Präsentation
 
-- [ ]  Kopie des Sprintmeeting Templates (Google slides) erstellen und alle Scrummitglieder einladen
+- [ ]  Kopie des Sprintmeeting Templates [Google slides](https://docs.google.com/presentation/d/1IR8AYs1VxoSeXbZukvoLKul_TnBYZ0_TPErpOEB57-s/edit?usp=sharing) erstellen und alle Scrummitglieder einladen
 - [ ]  auf **Titelfolie**
     - [ ]  Jahr und Sprintnummer anpassen
     - [ ]  Neues fresh **Meme** einfügen. Von [hier](https://www.reddit.com/r/ProgrammerHumor/) oder [hier](https://www.reddit.com/r/ProgrammerHumor/) zum Beispiel.
