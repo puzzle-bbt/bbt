@@ -32,12 +32,7 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/f/5810568) (Frag dein
 
 ### Review Präsentation
 
-[GitLab Repository](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro)
-
-> ‼️ Die Teammitglieder sollen ihre Reviews nacheinander und nicht parallel schreiben und push'en um Merge-Konflikte zu vermeiden.
-
-- [ ]  Neuen Branch erstellen wie [hier](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro#branch) beschrieben
-    - Branch Name: **sprint-sXX** wobei **XX** Sprint-Nummer ist
+- [ ]  Kopie des Sprintmeeting Templates (Google slides) erstellen und alle Scrummitglieder einladen
 - [ ]  auf **Titelfolie**
     - [ ]  Jahr und Sprintnummer anpassen
     - [ ]  Neues fresh **Meme** einfügen. Von [hier](https://www.reddit.com/r/ProgrammerHumor/) oder [hier](https://www.reddit.com/r/ProgrammerHumor/) zum Beispiel.
@@ -45,8 +40,6 @@ Hat sein zu Hause [hier](https://files.puzzle.ch/index.php/f/5810568) (Frag dein
     - [ ]  **Burndown**-Screenshot updaten
 
         🧘🏽 Burndown kann im ZenHub unter Reports *ge'screenshot'ed*
-
-        📁 Burndown Screenshot ist im Ordner `assets` zu finden
 
     - [ ]  absolute/relative **Velocity** anpassen
     - [ ]  Better/Worse icon anpassen
