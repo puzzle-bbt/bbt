@@ -1,6 +1,6 @@
 # Review Präsentationen
 
-Während dem Review im Sprint-Meeting, präsentiert jeder, was er **gemacht** und **gelernt** hat. Dazu muss jeder **Slides** vorbereiten in [diesem Repository](https://gitlab.puzzle.ch/pitc_lehrausbildung/bbt_review-retro) in seinem entsprechendem Abschnitt. Alles sollte im Readme von diesem Repo beschrieben sein.
+Während dem Review im Sprint-Meeting, präsentiert jeder, was er **gemacht** und **gelernt** hat. Dazu muss jeder **Slides** vorbereiten in seinem entsprechendem Abschnitt. Eine Einladung zur Powerpoint Präsentation komment jeweils rechtzeitig vor dem Sprintmeeting und wird vom Scrummaster erstellt.
 
 ## Struktur
 Die Slides sollten folgende Struktur haben:
@@ -22,5 +22,3 @@ Die Slides sollten folgende Struktur haben:
   - was neu war oder einen fasziniert hat.
   - wovon die anderen auch profitieren würden.
 - kann etwas aus der **Lerndoku** sein, zum Beispiel
-
-> ‼️ jede Änderung sofort commit'en und push'en um Merge-Konflikte zu vermeiden
