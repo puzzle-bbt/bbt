@@ -24,3 +24,5 @@ Hier einige von den Projekten, an denen das BBT gearbeitet hat und wieder arbeit
 * [Skills](https://github.com/puzzle/skills) - trage deine Skills ein und finde Leute mit Skill
 * [Lightning ATM](https://docs.lightningatm.me/) - wandle dein Bargeld in Bitcoins um
 * [Hitobito](https://github.com/hitobito) - organisiere dein Verband
+  
+* [IT-Ninjas Schnuppertage](https://github.com/puzzle-bbt/bbt/blob/main/it_ninjas.md)
