@@ -1,0 +1,13 @@
+# Ablauf IT Ninjas Schnuppertag (remote Durchführung)
+
+Je nach Kapazität Gruppen aufteilen --> Starter, Könner  
+  
+### Discord 
+Alle treffen sich in einem "Welcome" Channel und werden dann in separate Channels "Starter" und "Könner" für die beiden Gruppen aufgeteilt. Am Ende treffen sich wieder alle im Welcome Channel.  
+  
+Die Durchführung via Discord hat sich beim letzten Mal (20.4.2021) sehr bewährt, da es äusserst einfach ist zwischen den Channels zu wechseln. So können auf einfache Weise ein weiterer Support Channel und evt. Fragenchannels hinzugefügt werden.
+
+### Google hangouts
+Alle treffen sich im gleichen Videocall, dann wird aufgeteilt (Link für zweiten Videocall in den Chat des ersten Calls schicken). Am Schluss treffen sich wieder alle im ersten Videocall.
+  
+Die Durchführung per Google hangouts ist weniger zu empfehlen, da das Wechseln zwischen den Calls mühsam ist und man das Risiko eingeht, dass die IT Ninjas irgendwo verloren gehen und dann nicht zurück zum Call finden.
