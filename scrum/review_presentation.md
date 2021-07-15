@@ -1,6 +1,6 @@
 # Review Präsentationen
 
-Während dem Review im Sprint-Meeting, präsentiert jeder, was er **gemacht** und **gelernt** hat. Dazu muss jeder **Slides** vorbereiten in seinem entsprechendem Abschnitt. Eine Einladung zur Powerpoint Präsentation komment jeweils rechtzeitig vor dem Sprintmeeting und wird vom Scrummaster erstellt.
+Während dem Review im Sprint-Meeting, präsentiert jeder, was er **gemacht** und **gelernt** hat. Dazu muss jeder **Slides** vorbereiten in seinem entsprechendem Abschnitt. Eine Einladung zur Powerpoint Präsentation ([Google slides template](https://docs.google.com/presentation/d/1IR8AYs1VxoSeXbZukvoLKul_TnBYZ0_TPErpOEB57-s/edit?usp=sharing)) kommt jeweils rechtzeitig vor dem Sprintmeeting und wird vom Scrummaster erstellt.
 
 ## Struktur
 Die Slides sollten folgende Struktur haben:
