@@ -1,3 +1,4 @@
+**style**
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
@@ -8,7 +9,7 @@ assignees: ''
 ---
 
 **about:**
-A clear description of the task to resolve the issue create cheklist
+A clear description of the task to resolve the issue -> create checklist, create tabular 
 
 **current:**
 Short and accurate description of current state of this issue, what is solved, what is still not working, update checklist!
