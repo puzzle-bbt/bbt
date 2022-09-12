@@ -1,3 +1,12 @@
+---
+name: User Story template
+about: A Puzzle BBT User Story
+current: ''
+labels: ''
+assignees: ''
+
+---
+
 Als **Kunde/Entwickler** möchte ich XXX, damit YYY.
 
 #### Akzeptanzkriterien
